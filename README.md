@@ -1,5 +1,6 @@
 ## Web-based-app-to-check-Heart-Failure
 # Heart-Failure-Prediction-and-Deployment-with-Flask-and-Heroku
+
 Overview
 Heart failure — sometimes known as congestive heart failure — occurs when the heart muscle doesn't pump blood as well as it should. When this happens, blood often backs up and fluid can build up in the lungs, causing shortness of breath.
 
@@ -15,3 +16,14 @@ Early detection, and managment of cardiovascular diseases can be a great way to 
 For the purpose of predicting the risk of a  heart failure in patients, I used the Support Vector Classifier to build a machine learning model, and deployed it using Flask and Heroku.
 
 Link to the medium article: https://towardsdatascience.com/deploying-a-heart-failure-prediction-model-using-flask-and-heroku-55fdf51ee18e
+
+
+
+
+
+
+
+
+
+
+Author- Soumyo Nath Tripathy
