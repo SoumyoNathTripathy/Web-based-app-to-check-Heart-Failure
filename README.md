@@ -10,6 +10,10 @@ This machine learning model could help in estimating the probability of deaths c
 
 The dataset consists of 12 variables/features, and 1 output variable/target variable. Let us examine the role of each feature in determining if a person is likely to have heart failure or not:
 
+Interface looks like this:
+![image](https://user-images.githubusercontent.com/85414445/216848472-3ebaa128-c897-445b-9af0-61532c1c131e.png)
+
+
 1.Age: This variable shows the patient’s age
 2.Anemia: is the decrease in red blood cells or hemoglobin
 3.Creatinine_phosphokinase: is the level of creatine kinase in the blood. This enzyme is important for muscle function.
