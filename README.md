@@ -29,7 +29,7 @@ The dataset consists of 12 variables/features, and 1 output variable/target vari
 11.Time: This captures the time of the event
 12.Death event: which is the predictor variable.
 
-### Stepwise explanation of each feature
+### Stepwise explanation of each feature:
 
 Step 1: Import Libraries
 
