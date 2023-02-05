@@ -1,16 +1,18 @@
-## Web-based-app-to-check-Heart-Failure
-# Heart-Failure-Prediction-and-Deployment-with-Flask-and-Heroku
+# Web-based-app-to-check-Heart-Failure
+## Heart-Failure-Prediction-and-Deployment-with-Flask-and-Heroku
 
 ![image](https://user-images.githubusercontent.com/85414445/185736615-94df6113-3863-4581-80f2-d9371cfc106f.png)
 Cardiovascular diseases (which often leads to heart failures) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of global deaths.
 
+### Introductiom
 Most cardiovascular diseases can be prevented by addressing behavioral risk factors such as tobacco use, unhealthy diet and obesity, physical inactivity, and harmful use of alcohol using population-wide strategies. However, people with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidemia, or already established disease) need early detection and management wherein a machine learning model can be of great help.
 
+### Abstract
 This machine learning model could help in estimating the probability of deaths caused by heart failure by taking in important features from the dataset and making predictions based on these features.
 
 The dataset consists of 12 variables/features, and 1 output variable/target variable. Let us examine the role of each feature in determining if a person is likely to have heart failure or not:
 
-Interface looks like this:
+### Interface looks like this:
 ![image](https://user-images.githubusercontent.com/85414445/216848472-3ebaa128-c897-445b-9af0-61532c1c131e.png)
 
 
@@ -27,7 +29,7 @@ Interface looks like this:
 11.Time: This captures the time of the event
 12.Death event: which is the predictor variable.
 
-Now that we know the function of each feature, Let's get started
+### Stepwise explanation of each feature
 
 Step 1: Import Libraries
 
